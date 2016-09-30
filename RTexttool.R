@@ -1,0 +1,1 @@
+#Just starting on the training with the RText Tool
